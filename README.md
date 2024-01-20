@@ -10,6 +10,10 @@ Original author of the Legrand Orange Book template: Mathias Legrand (legrand.ma
 
 The original license for this template is [CC BY-NC-SA 3.0 Deed](https://creativecommons.org/licenses/by-nc-sa/3.0/), All restrictions apply as far as i'm concerned, no Lawyer, but better safe than sorry.
 
+## Julia Scripts
+
+Besides the notes, there are a few scripts, written in the Julia programming language, that you might found useful. These scripts will mostly correspond to graphs in the main notes, and can be accessed on their own if need be.
+
 ## Cool study materials!
 
 As i write this, i'm a student, and i want to help other students, it just so happens i'm not the only person with such an idea, there are lots of places where you can find help, here's a few i know of:
