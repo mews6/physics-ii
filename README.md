@@ -19,6 +19,7 @@ Besides the notes, there are a few scripts, written in the Julia programming lan
 As i write this, i'm a student, and i want to help other students, it just so happens i'm not the only person with such an idea, there are lots of places where you can find help, here's a few i know of:
 
 - [Yale's Fundamentals of Physics II Course](https://oyc.yale.edu/physics/phys-201/lecture-1)
+- [Khan Academy's College Physics II](https://www.khanacademy.org/science/ap-physics-2)
   
 ### Also, here's a list of books that are really useful and your college probably has:
 
