@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.1 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -16,5 +16,56 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{1}{book}{}
+      \name{author}{4}{}{%
+        {{hash=cdcb55db9d535bec955f5911f1ac4e59}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={Hugh\bibnamedelima D.},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=073003dafd6f7a0d40236b25403e4573}{%
+           family={Freedman},
+           familyi={F\bibinitperiod},
+           given={Roger\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=78a1a56f65cea996f0c007edd7225a76}{%
+           family={Ford},
+           familyi={F\bibinitperiod},
+           given={A.\bibnamedelimi Lewis},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=ad6488c0f224232de7845e698508ba2d}{%
+           family={Sears},
+           familyi={S\bibinitperiod},
+           given={Francis\bibnamedelima Weston},
+           giveni={F\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Francisco}%
+      }
+      \list{publisher}{1}{%
+        {Pearson Addison-Wesley}%
+      }
+      \strng{namehash}{c53001454754d8e4488919abe79b97b1}
+      \strng{fullhash}{cf86904185e8077f218a0d73cb18a4b3}
+      \strng{bibnamehash}{c53001454754d8e4488919abe79b97b1}
+      \strng{authorbibnamehash}{c53001454754d8e4488919abe79b97b1}
+      \strng{authornamehash}{c53001454754d8e4488919abe79b97b1}
+      \strng{authorfullhash}{cf86904185e8077f218a0d73cb18a4b3}
+      \field{labelalpha}{You+12}
+      \field{sortinit}{Y}
+      \field{sortinithash}{6ae2ff5458ff901249c2745238c951b7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Thirteenth}
+      \field{isbn}{9780321696861 0321696867 9780321696854 0321696859 9780321762184 0321762185 9780321741264 0321741269 9780321696229 0321696220}
+      \field{title}{Sears and Zemansky's University Physics: with Modern Physics}
+      \field{year}{2012}
+      \keyw{physics textbook young.freedman}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
