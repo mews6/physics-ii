@@ -20,7 +20,7 @@ As i write this, i'm a student, and i want to help other students, it just so ha
 
 - [Yale's Fundamentals of Physics II Course](https://oyc.yale.edu/physics/phys-201/lecture-1)
 - [Khan Academy's College Physics II](https://www.khanacademy.org/science/ap-physics-2)
-  
-### Also, here's a list of books that are really useful and your college probably has:
 
+### Also, here's a list of books that are really useful and your college probably has:
+-[This one Collection of Internet Archive's Books is really cool, give it a look!](https://archive.org/details/UniversityPhysicsSearsAndZemanskysPearsonEducation14thEd2015
 - [Sears And Zemansky's University Physics With Modern Physics: Technology Update](https://www.amazon.com/University-Physics-Modern-Technology-Update/dp/032189796X/ref=sr_1_1?crid=1YOH9C4SNB01H&dib=eyJ2IjoiMSJ9.ECP-gWSEfoGfpYTLNRV0aeohKrrOiQZgUo5teVlU6Yixn2JlSo1SDsbxmWQ7_x6Ti6A2jsyumhmzhPX55Q8CtiL5a56lHC-o7ORX0pRsjGhEz8QgcBVNGkZVzse6rDbxLIeMpSOyP51QmW4o7yAJsafIkomVFDBeK_G6R_tzl1JPv4pK0nynpHKyQiuOeNTXWskix-2bhRtmWeM5M5PikpPgtoT8lhw7t04PJuAY5mc.iDNcBtB6hi5SvdIzDrbBdfYC_t-K_gzaKJJNNWLLjhk&dib_tag=se&keywords=Sears+%26+Zemansky%27s+University+Physics&qid=1705694187&s=books&sprefix=sears+%26+zemansky%27s+university+physics%2Cstripbooks-intl-ship%2C151&sr=1-1)
