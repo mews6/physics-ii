@@ -1,19 +1,19 @@
 [0] Config.pm:304> INFO - This is Biber 2.14
-[1] Config.pm:307> INFO - Logfile is 'main.blg'
-[164] biber-darwin:322> INFO - === Fri Jan 26, 2024, 11:13:04
-[194] Biber.pm:415> INFO - Reading 'main.bcf'
-[387] Biber.pm:943> INFO - Found 1 citekeys in bib section 0
-[420] Biber.pm:4256> INFO - Processing section 0
-[421] Utils.pm:75> INFO - Globbing data source 'bibliography.bib'
-[421] Utils.pm:91> INFO - Globbed data source 'bibliography.bib' to bibliography.bib
-[446] Biber.pm:4455> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
-[447] bibtex.pm:1653> INFO - LaTeX decoding ...
-[455] bibtex.pm:1471> INFO - Found BibTeX data source 'bibliography.bib'
-[499] Utils.pm:304> WARN - ISBN '9780321696861 0321696867 9780321696854 0321696859 9780321762184 0321762185 9780321741264 0321741269 9780321696229 0321696220' in entry '1' is invalid - run biber with '--validate_datamodel' for details.
-[547] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[547] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[547] Biber.pm:4084> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[548] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
-[551] bbl.pm:652> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[553] bbl.pm:755> INFO - Output to main.bbl
-[553] Biber.pm:128> INFO - WARNINGS: 1
+[0] Config.pm:307> INFO - Logfile is 'main.blg'
+[134] biber-darwin:322> INFO - === Fri Jan 26, 2024, 12:03:48
+[159] Biber.pm:415> INFO - Reading 'main.bcf'
+[328] Biber.pm:943> INFO - Found 1 citekeys in bib section 0
+[355] Biber.pm:4256> INFO - Processing section 0
+[355] Utils.pm:75> INFO - Globbing data source 'bibliography.bib'
+[355] Utils.pm:91> INFO - Globbed data source 'bibliography.bib' to bibliography.bib
+[371] Biber.pm:4455> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[373] bibtex.pm:1653> INFO - LaTeX decoding ...
+[390] bibtex.pm:1471> INFO - Found BibTeX data source 'bibliography.bib'
+[426] Utils.pm:304> WARN - ISBN '9780321696861 0321696867 9780321696854 0321696859 9780321762184 0321762185 9780321741264 0321741269 9780321696229 0321696220' in entry '1' is invalid - run biber with '--validate_datamodel' for details.
+[469] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[469] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[470] Biber.pm:4084> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[470] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[474] bbl.pm:652> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[476] bbl.pm:755> INFO - Output to main.bbl
+[476] Biber.pm:128> INFO - WARNINGS: 1

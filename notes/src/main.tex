@@ -190,6 +190,81 @@ In those formulas, $\alpha$ represents the thermic expansion quoefficient. with
 their units being measured $[\alpha] = \frac{1}{C^o}, \frac{1}{K}, \lor \frac{1}{F^o}$
 However, this is a quoefficient that is different depending on the material that is being worked on.
 
+\subsection{Volume}
+
+For a volume $V = L^3$ (such as a solid square cube), we can model a derivative of the sort:
+\begin{gather}
+    dV = \frac{dV}{dL}\cdot dL\\
+    3L^2 dL\\
+    3L^2 \alpha L_0 dT \\
+    3 \alpha \underbrace{L^2 L_0}_{V_0} dT
+\end{gather}
+
+Therefore, volume changes at the rate of:
+
+\begin{gather}
+    dV = 3\alpha V_0 dT
+\end{gather}
+
+$3\alpha$ is the equivallent of a linear expansion for volumetric situations.
+we can simplify it as $\beta$. Therefore it is possible to write:
+
+\begin{gather}
+    dV = \beta V_0 dT
+\end{gather}
+
+\section{The limits of Temperature}
+
+...Eventually, we would reach the apparent universal constant of:
+
+\begin{gather}
+    T \geq 273.15 C^o
+\end{gather}
+
+This will come to define the Kelvin temperature scale, where Temperature is direcly proportional
+to the pressure applied by gasses at that specific temperature. This is a scale we'll eventually 
+call the absolute scale of temperature, there is no possibility of an object going to a colder 
+temperature than 0 Kelvin.
+
+\section{Thermic Equilibrium}
+
+Thermic equilibrium is a state between two objects such as they won't have any sort of energy exchange.
+This will happen if and only if both objects are at the same temperature. If two objects are at a different temperature, 
+they will eventually exchange energy.
+
+If the difference of temperature between two objects is greater, then the exchange of temperature will be larger. 
+
+\section{Calorimetry}
+
+Calorimetry is a field of thermodynamics preoccupied with the exchange
+of heat between objects. 
+
+Heat has a mechanic equivalent that can be measured as energy. This would eventually leave us to the conclusion
+that heat is by itself, a form of energy. 
+
+\begin{gather}
+    Q = Cm\Delta T
+\end{gather}
+
+In this formula, C is a constant that measures the specific heat of a material. This can be measured as
+$\frac{J}{kg \cdot (K\lor C^o)}$
+
+\paragraph*{Example}
+
+Suppouse an object 'A' and an object 'B', with masses '$m_a = 2gr$' and '$m_b = 1 gr$' respectively, both 
+golden. at two different temperatures $T_A = 20C^o$ and $T_B = 10C^o$. How will heat behave in this system?
+
+\begin{gather}
+    \sum Q = 0\\
+    \Delta T_A = T_F - T_A\\
+    \Delta T_B = T_F - T_B\\ 
+    m_a c_a \Delta T_A + m_b c_b \Delta T_B = 0\\
+    m_a c_a (T_F - T_A) + m_b c_b (T_F - T_B) = 0\\
+    m_a (T_F - T_A) + m_b (T_F - T_B) = 0\\ 
+    T_F = \frac{m_a T_a + m_b T_b}{(m_a + m_b)}\\
+    T_F = \frac{T_a + T_b}{2}
+\end{gather}
+
 
 \printbibliography
 
